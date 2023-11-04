@@ -1,0 +1,10 @@
+tensorflow==2.8.0
+python-multipart
+uvicorn
+mysql-connector-python
+pandas
+numpy
+sklearn
+sqlalchemy
+fastapi
+boto3
